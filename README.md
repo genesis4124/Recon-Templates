@@ -1,9 +1,6 @@
-# Recon-Templates
-Recon Templates
- Template Categories & Advanced Checklist
-Below is a comprehensive list of the advanced web application vulnerabilities and attack vectors that our Nuclei templates target. This serves as a live checklist of our current capabilities and a roadmap for ongoing development!
-
 Next-Gen Server-Side Vulnerabilities & Bypass Techniques
+This document outlines a comprehensive checklist of advanced server-side and client-side vulnerabilities, emerging attack vectors, and sophisticated bypass techniques relevant to modern web applications.
+
 I. Next-Gen Server-Side Vulnerabilities & Bypass Techniques
 A. Advanced Server-Side Request Forgery (SSRF) & Internal Network Exposure
 [ ] SSRF with Multi-Level Redirection Bypasses: Templates that meticulously follow and analyze multiple HTTP redirects (e.g., 302 -> 301 -> 307) to reach internal services, bypassing simple redirect filters.
