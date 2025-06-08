@@ -6,6 +6,17 @@ When viewed on GitHub, these items will display as interactive checkboxes. You c
 I. Next-Gen Server-Side Vulnerabilities & Bypass Techniques
 
 
+### Solar System Exploration, 1950s – 1960s
+
+- [ ] Mercury
+- [x] Venus
+- [x] Earth (Orbit/Moon)
+- [x] Mars
+- [ ] Jupiter
+- [ ] Saturn
+- [ ] Uranus
+- [ ] Neptune
+- [ ] Comet Haley
 
 A. Advanced Server-Side Request Forgery (SSRF) & Internal Network Exposure
 [ ] SSRF with Multi-Level Redirection Bypasses: Exploiting SSRF vulnerabilities by meticulously following and analyzing multiple HTTP redirects (e.g., 302 -> 301 -> 307) to reach internal services, effectively bypassing simple redirect filters.
